@@ -1,4 +1,1 @@
-FormTrainer
-===========
-
-Let's train those forms!
+Practice programming in python
